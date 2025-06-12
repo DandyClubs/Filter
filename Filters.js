@@ -157,6 +157,7 @@ summerstarz
 暮町ゆうこ
 折原ゆかり
 沢口紫乃
+장주
 `
 
 const WarningText = `
