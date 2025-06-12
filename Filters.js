@@ -175,6 +175,7 @@ BTIS
 CAND
 CAND-
 CHINASES SUB
+Digi-Gra
 DOA
 DOA-
 DSD-
@@ -198,6 +199,7 @@ LZPL
 Ladyboy
 Lesbea
 Lesbian
+LOVEPOP
 MAR-
 MBR-
 MBR-AQ
