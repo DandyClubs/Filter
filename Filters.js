@@ -237,6 +237,7 @@ ZEPE
 – MR
 【8KVR】
 【VR】
+(?<![a-zA-Z])vr(?![a-zA-Z])
 おちんコスLABO
 おとひめ
 おばさん
