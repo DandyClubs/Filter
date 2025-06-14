@@ -1,85 +1,87 @@
 const RemoveContentText =
 `
-おちんコスLABO
-男の娘
-コの娘
-男姫
-おとひめ
-ニューハーフ
-オトコ
-女装子
-Reducing Mosaic
-UMR
-CHINASES SUB
-Sydney Harwin
-ACZD
-OPPW
-AIAV
-BOKD
-HoneyTrans
-Pure-Ts
-Ladyboy
-LustyGrandmas
-Shemale
-DreamTranny
-TsSeduction
-LadyBoyGold
-Holewrecker69
-男娘CD
-TS美妖
-美妖TS
-厕拍大神
-美妖TS
-女厕
-极品厕拍
-厕拍沟厕
-嘘嘘
-小九酱
-Tgirl
-TSCD
-sarah579
-伪娘
-人妖
-EVIS-
-男娘
-妇科门诊男医
-近公厕偷拍
-T娘
-吃雞大神
-AI明星换脸
-Humiliation
-Strapon
-欧美AV
-BTIS
-PJHaverstock
-柊かな
-Strap Lez
-Sydney.Harwin
-Wanilianna
-Mia Thonson
-Jean Lo
-Angel The Dreamgirl
-Lady-Sonia
-transsexuals
-Scat
-– MR
-極太健康便
-Kink305
-PerverseFamily
-Kink3-
-Renata Davila
-Melanie Brooks
-モザイク破壊版
-[MR]
-湾搭拉咩拉
-排泄嬢
-AI破解
-AI破壞版
-AI换脸-优
-VR Porn
-[TS]
 50代
 60代
+ACZD
+AIAV
+AI换脸-优
+AI明星换脸
+AI破壞版
+AI破解
+Angel The Dreamgirl
+BOKD
+BTIS
+CHINASES SUB
+DreamTranny
+EVIS-
+Holewrecker69
+HoneyTrans
+Humiliation
+Jean Lo
+Kink3-
+Kink305
+Lady-Sonia
+LadyBoyGold
+Ladyboy
+LustyGrandmas
+Melanie Brooks
+Mia Thonson
+OPPW
+PJHaverstock
+PerverseFamily
+Pure-Ts
+Reducing Mosaic
+Reducing Mosaic
+ReducingMosaic
+Renata Davila
+Scat
+Shemale
+Strap Lez
+Strapon
+Sydney Harwin
+Sydney.Harwin
+TSCD
+TS美妖
+Tgirl
+TsSeduction
+T娘
+UMR
+VR Porn
+Wanilianna
+[MR]
+[TS]
+sarah579
+transsexuals
+– MR
+おちんコスLABO
+おとひめ
+オトコ
+コの娘
+ニューハーフ
+モザイク破壊版
+人妖
+伪娘
+厕拍大神
+厕拍沟厕
+吃雞大神
+嘘嘘
+女厕
+女装子
+妇科门诊男医
+小九酱
+排泄嬢
+极品厕拍
+柊かな
+極太健康便
+欧美AV
+湾搭拉咩拉
+男の娘
+男姫
+男娘
+男娘CD
+美妖TS
+美妖TS
+近公厕偷拍
 `
 
 const SkipModel = `
@@ -221,8 +223,6 @@ OPPW
 PRIAN
 QRDA
 REBD
-Reducing Mosaic
-ReducingMosaic
 SACZ
 SPSA
 SPSB
