@@ -37,7 +37,7 @@ ReducingMosaic
 Renata Davila
 Scat
 Shemale
-Strap Lez
+Strap\s?Lez
 Strapon
 Sydney Harwin
 Sydney.Harwin
