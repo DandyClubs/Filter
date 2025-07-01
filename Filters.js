@@ -162,6 +162,7 @@ summerstarz
 福山いろは
 堀切菜未
 장주
+赤川しおり
 `
 
 const WarningText = `
