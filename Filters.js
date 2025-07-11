@@ -165,6 +165,7 @@ summerstarz
 장주
 赤川しおり
 須王亜紀
+岩沢香代
 `
 
 const WarningText = `
