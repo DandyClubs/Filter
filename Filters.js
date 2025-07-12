@@ -283,6 +283,7 @@ ZEPE
 鼻フック
 ぽっちゃり人妻
 肉感ムチムチ
+串刺し拷問
 `
 
 const SkipWord = WarningText
