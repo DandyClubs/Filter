@@ -169,6 +169,7 @@ summerstarz
 岩沢香代
 中地ゆか
 岡江凛
+東籬夕佳
 `
 
 const WarningText = `
