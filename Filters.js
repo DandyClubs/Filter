@@ -168,6 +168,7 @@ summerstarz
 須王亜紀
 岩沢香代
 中地ゆか
+岡江凛
 `
 
 const WarningText = `
