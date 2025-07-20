@@ -83,8 +83,9 @@ transsexuals
 美妖TS
 美妖TS
 近公厕偷拍
-\\sTS\\s
+ TS 
 `
+
 
 const SkipModel = `
 Emma Rose
