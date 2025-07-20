@@ -83,6 +83,7 @@ transsexuals
 美妖TS
 美妖TS
 近公厕偷拍
+ \sTS\s
 `
 
 const SkipModel = `
@@ -289,6 +290,9 @@ ZEPE
 ぽっちゃり人妻
 肉感ムチムチ
 串刺し拷問
+(?<=\s)MR\b
+(?<![a-zA-Z])(VR|META)(?![a-zA-Z])
+(VR)(?=\.)
 `
 
 const SkipWord = WarningText
