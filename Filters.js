@@ -212,7 +212,7 @@ Ladyboy
 Lesbea
 Lesbian
 LOVEPOP
-MAR-
+(?<![a-zA-Z])MAR-
 MBR-
 MBR-AQ
 MBR-BM
