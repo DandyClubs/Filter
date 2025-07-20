@@ -49,8 +49,8 @@ T娘
 UMR
 VR Porn
 Wanilianna
-[MR]
-[TS]
+\\[MR\\]
+\\[TS\\]
 sarah579
 transsexuals
 – MR
@@ -246,7 +246,7 @@ TSDS
 ZDAD
 ZEOD
 ZEPE
-[SD]
+\\[SD\\]
 – MR
 【8KVR】
 【VR】
