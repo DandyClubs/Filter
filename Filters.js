@@ -32,7 +32,6 @@ PJHaverstock
 PerverseFamily
 Pure-Ts
 Reducing Mosaic
-Reducing Mosaic
 ReducingMosaic
 Renata Davila
 Scat
