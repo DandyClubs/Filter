@@ -177,6 +177,7 @@ summerstarz
 
 const WarningText = `
 -MR
+Uncen-leaked
 50代
 60代
 AARM
