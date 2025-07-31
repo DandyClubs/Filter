@@ -301,9 +301,9 @@ ZEPE
 肉感ムチムチ
 串刺し拷問
 熟成肉
-(?<=\s)MR\b
+(?<=\\s)MR\\b
 (?<![a-zA-Z])(VR|META)(?![a-zA-Z])
-(VR)(?=\.)
+(VR)(?=\\.)
 `
 
 const SkipWord = WarningText
