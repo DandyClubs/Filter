@@ -86,6 +86,7 @@ transsexuals
 酒店摄像
 流出酒店偷拍
  TS 
+ AnalVids.+\(SD\/\d+\)$
 `
 
 
