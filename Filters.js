@@ -181,6 +181,7 @@ summerstarz
 星杏奈
 塚田しおり
 池田喜代子
+早苗さん
 `
 
 const WarningText = `
