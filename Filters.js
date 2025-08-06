@@ -176,6 +176,11 @@ summerstarz
 岡江凛
 東籬夕佳
 美羽さん
+櫻井夕樹
+江原あけみ
+星杏奈
+塚田しおり
+池田喜代子
 `
 
 const WarningText = `
