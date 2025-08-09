@@ -87,6 +87,7 @@ transsexuals
 近公厕偷拍
 酒店摄像
 酒店偷拍
+黑客破解家庭网络摄像头偷拍
  TS 
 AnalVids.+\\(SD\\/\\d+\\sMB\\)$
 `
