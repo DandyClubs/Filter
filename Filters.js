@@ -48,6 +48,7 @@ TransAngels
 T娘
 UMR
 VR Porn
+Nana Taipei
 Wanilianna
 \\[MR\\]
 \\[TS\\]
