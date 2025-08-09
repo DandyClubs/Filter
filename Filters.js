@@ -188,6 +188,7 @@ summerstarz
 池田喜代子
 早苗さん
 横峯美佐子
+滝川けいこ
 `
 
 const WarningText = `
