@@ -189,6 +189,8 @@ summerstarz
 早苗さん
 横峯美佐子
 滝川けいこ
+真下礼子
+相河沙季
 `
 
 const WarningText = `
