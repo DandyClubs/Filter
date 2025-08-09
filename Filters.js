@@ -187,6 +187,7 @@ summerstarz
 塚田しおり
 池田喜代子
 早苗さん
+横峯美佐子
 `
 
 const WarningText = `
