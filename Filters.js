@@ -191,6 +191,8 @@ summerstarz
 滝川けいこ
 真下礼子
 相河沙季
+桐岡さつき
+柚木れんか
 `
 
 const WarningText = `
