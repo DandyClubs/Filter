@@ -188,6 +188,7 @@ summerstarz
 
 const WarningText = `
 -MR
+AI Generated
 Uncen-leaked
 50代
 60代
