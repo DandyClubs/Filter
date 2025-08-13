@@ -250,6 +250,7 @@ MBRBA
 MBRBM
 MBRBN
 MDBB
+M0ecc0
 Minisuka
 META-
 MMR-
