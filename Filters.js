@@ -52,6 +52,7 @@ T娘
 UMR
 VR Porn
 Nana Taipei
+nana_taipei
 Wanilianna
 \\[MR\\]
 \\[TS\\]
