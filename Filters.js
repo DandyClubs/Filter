@@ -195,6 +195,7 @@ summerstarz
 相河沙季
 桐岡さつき
 柚木れんか
+朝霧一花
 `
 
 const WarningText = `
