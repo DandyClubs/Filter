@@ -196,6 +196,7 @@ summerstarz
 桐岡さつき
 柚木れんか
 朝霧一花
+八束みこと
 `
 
 const WarningText = `
