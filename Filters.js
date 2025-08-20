@@ -92,6 +92,7 @@ transsexuals
 酒店偷拍
 澡堂子内部员工
 黑客破解
+酒店上帝视角偷拍
  TS 
 AnalVids.+\\(SD\\/\\d+\\sMB\\)$
 `
