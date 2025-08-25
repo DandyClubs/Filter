@@ -203,6 +203,7 @@ summerstarz
 朝霧一花
 八束みこと
 牧本千幸
+有奈めぐみ
 `
 
 const WarningText = `
