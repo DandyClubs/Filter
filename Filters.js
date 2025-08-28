@@ -44,7 +44,7 @@ Sydney Harwin
 TSCD
 TS美妖
 Transfixed
-\\sTgirl\\s
+\\sTgirl
 Trans500
 TsSeduction
 TransAngels
