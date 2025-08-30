@@ -207,6 +207,7 @@ summerstarz
 八束みこと
 牧本千幸
 有奈めぐみ
+佐久間楓
 `
 
 const WarningText = `
