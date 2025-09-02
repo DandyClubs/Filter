@@ -207,6 +207,7 @@ summerstarz
 牧本千幸
 有奈めぐみ
 佐久間楓
+姫野ももな
 `
 
 const WarningText = `
