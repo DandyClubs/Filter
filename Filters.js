@@ -36,7 +36,7 @@ Pure-Ts
 Reducing Mosaic
 ReducingMosaic
 Renata Davila
-\\sScat
+\\bscat\\b
 Shemale
 StrapLez
 Strapon
