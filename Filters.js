@@ -55,7 +55,7 @@ VR Porn
 Nana Taipei
 nana_taipei
 Wanilianna
-\\[MR\\]
+\\bMR\\b
 \\[TS\\]
 sarah579
 transsexuals
