@@ -19,7 +19,6 @@ Holewrecker69
 HoneyTrans
 hongkongdoll
 Hong Kong Doll
-Humiliation
 Jean Lo
 Kink3-
 Kink305
@@ -255,6 +254,7 @@ LZPL-
 Ladyboy
 Lesbea
 Lesbian
+Humiliation
 LOVEPOP
 (?<![a-zA-Z])MAR-
 MBR-
