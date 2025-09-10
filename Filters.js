@@ -1,7 +1,5 @@
 const RemoveContentText =
 `
-50代
-60代
 ACZD
 AIAV
 AI换脸-优
