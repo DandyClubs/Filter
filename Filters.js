@@ -219,6 +219,7 @@ summerstarz
 有奈めぐみ
 佐久間楓
 姫野ももな
+加山なつこ
 `
 
 const WarningText = `
