@@ -220,6 +220,7 @@ summerstarz
 佐久間楓
 姫野ももな
 加山なつこ
+天宮そよぎ
 `
 
 const WarningText = `
