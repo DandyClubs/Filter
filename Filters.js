@@ -222,6 +222,7 @@ summerstarz
 姫野ももな
 加山なつこ
 天宮そよぎ
+円城ひとみ
 `
 
 const WarningText = `
