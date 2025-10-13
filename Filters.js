@@ -226,6 +226,7 @@ summerstarz
 `
 
 const WarningText = `
+Pregnant
 -MR
 AI Generated
 Uncen-leaked
