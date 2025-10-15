@@ -223,6 +223,7 @@ summerstarz
 加山なつこ
 天宮そよぎ
 円城ひとみ
+井上綾子
 `
 
 const WarningText = `
