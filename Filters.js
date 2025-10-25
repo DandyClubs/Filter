@@ -225,6 +225,7 @@ summerstarz
 円城ひとみ
 井上綾子
 三浦恵理子
+松嶺こはく
 `
 
 const WarningText = `
