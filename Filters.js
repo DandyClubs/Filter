@@ -227,6 +227,7 @@ summerstarz
 井上綾子
 三浦恵理子
 松嶺こはく
+櫻木みなと
 `
 
 const WarningText = `
