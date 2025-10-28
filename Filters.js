@@ -228,6 +228,7 @@ summerstarz
 三浦恵理子
 松嶺こはく
 櫻木みなと
+川上ゆう
 `
 
 const WarningText = `
