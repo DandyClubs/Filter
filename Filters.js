@@ -233,6 +233,7 @@ summerstarz
 松嶺こはく
 櫻木みなと
 川上ゆう
+渡辺うい
 `
 
 const WarningText = `
