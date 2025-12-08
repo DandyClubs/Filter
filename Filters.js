@@ -234,6 +234,7 @@ summerstarz
 櫻木みなと
 川上ゆう
 渡辺うい
+秋月まりな
 `
 
 const WarningText = `
