@@ -39,6 +39,7 @@ Pure-Ts
 Reducing Mosaic
 ReducingMosaic
 Renata Davila
+PinkoTGirls
 \\bscat\\b
 Shemale
 StrapLez
