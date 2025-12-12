@@ -236,6 +236,7 @@ summerstarz
 川上ゆう
 渡辺うい
 秋月まりな
+岡崎亜紀
 `
 
 const WarningText = `
