@@ -237,6 +237,9 @@ summerstarz
 渡辺うい
 秋月まりな
 岡崎亜紀
+よしい美希
+伊沢涼子
+吉井美希
 `
 
 const WarningText = `
