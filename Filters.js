@@ -242,6 +242,7 @@ summerstarz
 伊沢涼子
 吉井美希
 成田かなこ
+茜さな
 `
 
 const WarningText = `
