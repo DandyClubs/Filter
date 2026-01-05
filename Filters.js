@@ -243,6 +243,7 @@ summerstarz
 吉井美希
 成田かなこ
 茜さな
+佐藤美紀
 `
 
 const WarningText = `
