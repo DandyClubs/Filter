@@ -247,6 +247,7 @@ summerstarz
 田中ねね
 妃ひかり
 滝川恵理
+藤沢麗央
 `
 
 const WarningText = `
