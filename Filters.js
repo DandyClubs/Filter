@@ -246,6 +246,7 @@ summerstarz
 佐藤美紀
 田中ねね
 妃ひかり
+滝川恵理
 `
 
 const WarningText = `
