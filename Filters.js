@@ -244,6 +244,7 @@ summerstarz
 成田かなこ
 茜さな
 佐藤美紀
+田中ねね
 `
 
 const WarningText = `
