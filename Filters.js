@@ -250,6 +250,8 @@ summerstarz
 滝川恵理
 藤沢麗央
 延岡涼香
+青葉小夏
+彩奈リナ
 `
 
 const WarningText = `
