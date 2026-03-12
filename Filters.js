@@ -252,6 +252,8 @@ summerstarz
 延岡涼香
 青葉小夏
 彩奈リナ
+沖宮那美
+城ヶ崎百瀬
 `
 
 const WarningText = `
