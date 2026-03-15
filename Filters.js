@@ -254,6 +254,7 @@ summerstarz
 彩奈リナ
 沖宮那美
 城ヶ崎百瀬
+石川美鈴
 `
 
 const WarningText = `
