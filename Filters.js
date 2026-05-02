@@ -256,6 +256,7 @@ summerstarz
 沖宮那美
 城ヶ崎百瀬
 石川美鈴
+夕季ちとせ
 `
 
 const WarningText = `
