@@ -258,6 +258,7 @@ summerstarz
 石川美鈴
 夕季ちとせ
 真白ふわり
+神谷ひめの
 `
 
 const WarningText = `
