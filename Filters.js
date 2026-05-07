@@ -257,6 +257,7 @@ summerstarz
 城ヶ崎百瀬
 石川美鈴
 夕季ちとせ
+真白ふわり
 `
 
 const WarningText = `
