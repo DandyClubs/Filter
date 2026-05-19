@@ -261,6 +261,7 @@ summerstarz
 真白ふわり
 神谷ひめの
 春日友紀
+小倉みきね
 `
 
 const WarningText = `
