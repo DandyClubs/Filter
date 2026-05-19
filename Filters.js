@@ -260,6 +260,7 @@ summerstarz
 夕季ちとせ
 真白ふわり
 神谷ひめの
+春日友紀
 `
 
 const WarningText = `
