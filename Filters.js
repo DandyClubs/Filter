@@ -262,6 +262,7 @@ summerstarz
 神谷ひめの
 春日友紀
 小倉みきね
+古東まりこ
 `
 
 const WarningText = `
