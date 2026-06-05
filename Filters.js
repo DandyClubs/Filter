@@ -270,6 +270,7 @@ summerstarz
 古東まりこ
 中島美南
 馬場紗奈
+若葉ひかる
 `
 
 const WarningText = `
