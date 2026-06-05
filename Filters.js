@@ -268,6 +268,7 @@ summerstarz
 春日友紀
 小倉みきね
 古東まりこ
+中島美南
 `
 
 const WarningText = `
