@@ -273,6 +273,7 @@ summerstarz
 馬場紗奈
 若葉ひかる
 堀口小百合
+希咲アリス
 `
 
 const WarningText = `
