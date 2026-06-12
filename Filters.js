@@ -366,7 +366,7 @@ ZEOD-
 ZEPE-
 \\[SD\\]
 – MR
-【8KVR】
+8KVR
 【VR】
 おちんコスLABO
 おとひめ
