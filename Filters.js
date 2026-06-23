@@ -57,7 +57,6 @@ TsSeduction
 TransAngels
 TSRaw
 T娘
-UMR
 VR Porn
 Nana Taipei
 nana_taipei
