@@ -130,6 +130,7 @@ FemdomEmpire
 監控破解
 鹰眼视界
 破解新片
+厕拍
  TS 
 AnalVids.+\\(SD\\/\\d+\\sMB\\)$
 `
