@@ -280,6 +280,7 @@ summerstarz
 若葉ひかる
 堀口小百合
 希咲アリス
+水森ゆあ
 `
 
 const WarningText = `
