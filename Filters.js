@@ -2,6 +2,7 @@ const RemoveContentText =
 `
 ACZD
 AIAV
+AIPorn
 AI换脸-优
 AI明星换脸
 AI破壞版
