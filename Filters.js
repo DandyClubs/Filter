@@ -283,6 +283,7 @@ summerstarz
 堀口小百合
 希咲アリス
 水森ゆあ
+由香さん
 `
 
 const WarningText = `
