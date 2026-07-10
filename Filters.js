@@ -284,6 +284,7 @@ summerstarz
 希咲アリス
 水森ゆあ
 由香さん
+小梅えな
 `
 
 const WarningText = `
