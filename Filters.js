@@ -286,6 +286,7 @@ summerstarz
 由香さん
 小梅えな
 奥田咲
+白石茉莉奈
 `
 
 const WarningText = `
