@@ -338,6 +338,7 @@ Lesbian
 Humiliation
 LOVEPOP
 (?<![a-zA-Z])MAR-
+MARN-
 MBR-
 MBR-AQ
 MBR-BM
