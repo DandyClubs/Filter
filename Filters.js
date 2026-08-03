@@ -287,6 +287,7 @@ summerstarz
 小梅えな
 奥田咲
 白石茉莉奈
+鈴音ニコ
 `
 
 const WarningText = `
