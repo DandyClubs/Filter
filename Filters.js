@@ -288,6 +288,7 @@ summerstarz
 奥田咲
 白石茉莉奈
 鈴音ニコ
+木村愛心
 `
 
 const WarningText = `
