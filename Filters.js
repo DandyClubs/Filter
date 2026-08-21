@@ -295,6 +295,7 @@ const WarningText = `
 Pregnant
 -MR
 AI Generated
+AIリマスター版
 Uncen-leaked
 50代
 60代
