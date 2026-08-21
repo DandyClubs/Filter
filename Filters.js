@@ -332,6 +332,7 @@ JBD-
 KIDM-
 KMAI(?![a-zA-Z])
 LHTD-
+LBDD-
 LZBS-
 LZPL-
 Ladyboy
