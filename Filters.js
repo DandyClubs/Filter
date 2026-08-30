@@ -145,6 +145,7 @@ AnalVids.+\\(SD\\/\\d+\\sMB\\)$
 const SkipModel = `
 Emma Rose
 hecdjasmine
+Hatano Yui
 Kellywashere
 Leah Hayes
 Lilithfux
