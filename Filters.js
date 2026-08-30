@@ -291,6 +291,7 @@ summerstarz
 白石茉莉奈
 鈴音ニコ
 木村愛心
+波多野結衣
 `
 
 const WarningText = `
