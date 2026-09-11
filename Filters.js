@@ -295,6 +295,7 @@ summerstarz
 木村愛心
 波多野結衣
 咲雪華奈
+白石こはる
 `
 
 const WarningText = `
