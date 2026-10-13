@@ -377,6 +377,7 @@ Humiliation
 LOVEPOP
 (?<![a-zA-Z])MAR-
 MARN-
+MARAA-
 MBR-
 MBR-AQ
 MBR-BM
