@@ -329,7 +329,7 @@ const WarningText = `
 Pregnant
 -MR
 AI Generated
-AIリマスター版
+AIリマスター
 Uncen-leaked
 50代
 60代
