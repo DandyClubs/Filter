@@ -479,6 +479,8 @@ ZEPE-
 縛る
 触手
 チ○ポ脳
+SexLikeReal
+TmwVRnet
 (?<![a-zA-Z])(VR|META)(?![a-zA-Z])
 (VR)(?=\\.)
 `
