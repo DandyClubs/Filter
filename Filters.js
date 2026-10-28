@@ -331,6 +331,7 @@ summerstarz
 咲雪華奈
 白石こはる
 香須美さん
+友田真希
 `
 
 const WarningText = `
